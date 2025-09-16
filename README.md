@@ -4,5 +4,6 @@ It is using discord API but not the same way as normal bots, so be careful becau
 
 ## Installation
 pip install requests
+
 python main.py
 
