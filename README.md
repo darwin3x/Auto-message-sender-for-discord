@@ -3,7 +3,7 @@ Simple code that helps you send multiple messages on diffrent channels until pro
 It is using discord API but not the same way as normal bots, so be careful becaue it is against Discord rules (self-botting).
 
 ## Installation
-pip install requests
+-pip install requests
 
-python main.py
+-python main.py
 
